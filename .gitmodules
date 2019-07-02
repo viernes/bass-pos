@@ -2,3 +2,6 @@
 	path = viernes/xmarts_pos_invoice
 	url = git@github.com:viernes/xmarts_pos_invoice.git
 	branch = 12.0
+[submodule "pos_retail"]
+	path = pos_retail
+	url = git@github.com:viernes/pos_retail.git
